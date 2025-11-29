@@ -6,10 +6,7 @@
 
 ## How can I edit this code?
 
-There are several ways of editing your application.
-
-**Use Lovable**
-
+This project is called COnsulties HUb using react tailwindcss,typescript 
 Simply visit the [Lovable Project](https://lovable.dev/projects/0195ab85-9ae7-4d5b-86c1-2078e275a173) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
